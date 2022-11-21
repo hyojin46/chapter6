@@ -13,8 +13,8 @@
 //        {
 //            Thread t = new Thread(threadFunc); //스레드 객체 생성
 //            ThreadParam param = new ThreadParam(); //여러 객체를 담을 객체 생성
-//            param.Value1 = 10; //값을 담음
-//            param.Value2 = 20;
+//            param.Value1 = 10; //값을 담는다
+//            param.Value2 = 20; //값을 담는다
 //            t.Start(param); // start() 메소드 인자에 값을 담은 객체를 전달
 //        }
 //        static void threadFunc(object initialValue) //업캐스팅

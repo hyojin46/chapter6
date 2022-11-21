@@ -13,5 +13,6 @@
 //        Console.WriteLine("Current Priority : " + t.Priority);
 //        ++t.Priority; //스레드 우선순위 증가
 //        Console.WriteLine("Higher Priority : " + t.Priority);
+        
 //    }
 //}

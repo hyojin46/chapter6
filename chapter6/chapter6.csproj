@@ -58,6 +58,7 @@
     <Compile Include="6-20_보충.cs" />
     <Compile Include="6-21.cs" />
     <Compile Include="6-22.cs" />
+    <Compile Include="6-22_보충.cs" />
     <Compile Include="6-23.cs" />
     <Compile Include="6-24.cs" />
     <Compile Include="6-25.cs" />

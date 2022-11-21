@@ -11,7 +11,7 @@
 //        }
 //        static void threadFunc(object initialValue) //object는 모든 자료형 수신 가능
 //        {
-//            int intValue = (int)initialValue; // 다운캐스팅
+//            int intValue = (int)initialValue; // 다운캐스팅함
 //            Console.WriteLine(intValue); //다운캐스팅한 값을 출력 = 10 
 //        }
 //    }

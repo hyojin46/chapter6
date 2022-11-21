@@ -6,7 +6,7 @@
 //    {
 //        while (true)
 //        {
-//            // ... infinite loop ...
+//            ... infinite loop ...
 //        }
 //    }
 //}
@@ -21,13 +21,13 @@
 //        t.Start(); // 해당 스레드 실행
 //        Thread.Sleep(100); //대기시간 0.1초
 //        Console.WriteLine("Step 2: " + t.ThreadState);
-//        t.Suspend(); // 해당 스레드를 대기상태로 만듬
+//        t.Suspend(); // 해당 스레드를 대기상태로 만든다
 //        Thread.Sleep(100); //대기시간 0.1초
 //        Console.WriteLine("Step 3: " + t.ThreadState);
 //        t.Join(); // 해당 스레드의 실행이 종료될때까지 기다린다 -> 여기서 실행이 멈추고 프로그램이 종료되지 않음
 //        Thread.Sleep(100); //대기시간 0.1초
 //        Console.WriteLine("Step 4: " + t.ThreadState);
-//        t.Abort(); // 해당 스레드를 종료시킴
+//        t.Abort(); // 해당 스레드를 종료시킨다
 //        Thread.Sleep(100); //대기시간 0.1초
 //        Console.WriteLine("Step 5: " + t.ThreadState);
 //    }
